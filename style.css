@@ -794,11 +794,10 @@ a {
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
 }
 
-/* Image Area */
 .card-image-box {
     height: 200px;
     width: 100%;
-    background-color: #ccc; /* Placeholder background */
+    background-color: #ccc; 
     background-size: cover;
     background-position: center;
     border-radius: 12px 12px 0 0;
@@ -806,10 +805,10 @@ a {
 }
 
 .blog-card:hover .card-image-box {
-    transform: scale(1.05); /* Slight zoom effect on hover */
+    transform: scale(1.05); 
 }
 
-/* Card Content (Below Image) */
+
 .card-content {
     padding: 20px 15px;
     text-align: left;
@@ -1066,7 +1065,7 @@ ul {
     color: var(--primary-color);
 }
 
-/* --- Footer Bottom (Copyright Bar) --- */
+
 .footer-bottom {
     padding: 20px 0;
 }
